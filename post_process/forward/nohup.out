@@ -1,0 +1,11 @@
+20170713_12
+
+// global attributes:
+		:domxmin = 2.138662e-41f ;
+		:domxmax = -9.423646e-25f ;
+		:domymin = 0.f ;
+		:domymax = 4.591635e-41f ;
+		:domzmin = -242628.1f ;
+		:domzmax = -340008.f ;
+		:constants_file_name = "lsl_20170713_12.4_cst" ;
+}

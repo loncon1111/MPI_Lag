@@ -1,0 +1,1488 @@
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170722_00_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170722_00_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170722_00_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170722_00_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [9.60s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [9.61s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [9.63s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [9.69s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [9.69s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170722_00_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.69s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.69s 80MB]
+cdo invertlat: Open failed on >an20170722_00_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_00_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_00_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.31s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.86s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.03s 72MB]
+cdo invertlat: Open failed on >an20170722_00_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.25s 56MB]
+cdo merge: Open failed on >P20170722_00_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170722_01_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170722_01_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170722_01_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170722_01_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [7.74s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [7.75s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [7.75s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [7.80s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [7.80s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170722_01_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.42s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.42s 80MB]
+cdo invertlat: Open failed on >an20170722_01_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_01_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_01_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.08s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.04s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.37s 72MB]
+cdo invertlat: Open failed on >an20170722_01_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.23s 56MB]
+cdo merge: Open failed on >P20170722_01_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170722_02_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170722_02_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170722_02_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170722_02_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [8.78s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [8.80s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [8.80s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [8.84s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [8.84s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170722_02_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.59s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.59s 80MB]
+cdo invertlat: Open failed on >an20170722_02_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_02_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_02_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.21s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.22s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.09s 72MB]
+cdo invertlat: Open failed on >an20170722_02_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.24s 56MB]
+cdo merge: Open failed on >P20170722_02_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170722_03_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170722_03_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170722_03_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170722_03_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [8.94s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [8.94s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [8.94s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [9.00s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [9.00s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170722_03_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.62s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.62s 80MB]
+cdo invertlat: Open failed on >an20170722_03_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_03_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_03_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.37s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.14s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.37s 72MB]
+cdo invertlat: Open failed on >an20170722_03_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.24s 56MB]
+cdo merge: Open failed on >P20170722_03_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170722_04_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170722_04_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170722_04_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170722_04_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [8.23s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [8.24s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [8.24s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [8.27s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [8.27s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170722_04_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.50s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.50s 80MB]
+cdo invertlat: Open failed on >an20170722_04_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_04_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_04_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.34s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.10s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.04s 72MB]
+cdo invertlat: Open failed on >an20170722_04_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.26s 56MB]
+cdo merge: Open failed on >P20170722_04_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170722_05_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170722_05_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170722_05_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170722_05_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [9.25s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [9.26s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [9.26s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [9.30s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [9.30s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170722_05_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.74s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.74s 80MB]
+cdo invertlat: Open failed on >an20170722_05_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_05_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_05_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.08s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.44s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.06s 72MB]
+cdo invertlat: Open failed on >an20170722_05_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.24s 56MB]
+cdo merge: Open failed on >P20170722_05_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170722_06_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170722_06_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170722_06_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170722_06_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [8.29s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [8.30s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [8.30s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [8.33s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [8.33s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170722_06_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.77s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.77s 80MB]
+cdo invertlat: Open failed on >an20170722_06_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_06_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_06_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.21s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.98s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.88s 72MB]
+cdo invertlat: Open failed on >an20170722_06_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.26s 56MB]
+cdo merge: Open failed on >P20170722_06_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170722_07_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170722_07_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170722_07_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170722_07_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [8.58s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [8.59s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [8.59s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [8.63s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [8.63s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170722_07_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.71s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.71s 80MB]
+cdo invertlat: Open failed on >an20170722_07_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_07_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_07_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.29s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.83s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.16s 72MB]
+cdo invertlat: Open failed on >an20170722_07_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.28s 56MB]
+cdo merge: Open failed on >P20170722_07_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170722_08_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170722_08_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170722_08_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170722_08_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [9.05s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [9.06s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [9.07s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [9.10s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [9.10s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170722_08_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.74s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.74s 80MB]
+cdo invertlat: Open failed on >an20170722_08_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_08_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_08_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.30s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.91s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.30s 72MB]
+cdo invertlat: Open failed on >an20170722_08_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.30s 56MB]
+cdo merge: Open failed on >P20170722_08_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170722_09_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170722_09_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170722_09_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170722_09_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [9.71s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [9.73s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [9.73s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [9.78s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [9.79s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170722_09_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.75s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.75s 80MB]
+cdo invertlat: Open failed on >an20170722_09_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_09_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_09_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.11s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.03s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.77s 72MB]
+cdo invertlat: Open failed on >an20170722_09_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.22s 56MB]
+cdo merge: Open failed on >P20170722_09_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170722_10_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170722_10_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170722_10_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170722_10_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [8.54s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [8.56s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [8.56s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [8.60s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [8.60s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170722_10_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.27s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.27s 80MB]
+cdo invertlat: Open failed on >an20170722_10_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_10_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_10_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.05s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.77s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.18s 72MB]
+cdo invertlat: Open failed on >an20170722_10_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.25s 56MB]
+cdo merge: Open failed on >P20170722_10_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170722_11_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170722_11_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170722_11_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170722_11_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [9.07s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [9.08s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [9.08s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [9.15s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [9.15s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170722_11_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.75s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.75s 80MB]
+cdo invertlat: Open failed on >an20170722_11_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_11_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_11_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.95s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.10s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.84s 72MB]
+cdo invertlat: Open failed on >an20170722_11_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.28s 56MB]
+cdo merge: Open failed on >P20170722_11_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170722_12_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170722_12_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170722_12_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170722_12_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [9.20s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [9.21s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [9.22s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [9.27s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [9.28s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170722_12_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.68s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.68s 80MB]
+cdo invertlat: Open failed on >an20170722_12_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_12_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_12_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.41s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.96s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.88s 72MB]
+cdo invertlat: Open failed on >an20170722_12_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.28s 56MB]
+cdo merge: Open failed on >P20170722_12_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170722_13_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170722_13_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170722_13_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170722_13_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [8.10s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [8.12s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [8.12s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [8.15s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [8.15s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170722_13_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.77s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.77s 80MB]
+cdo invertlat: Open failed on >an20170722_13_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_13_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_13_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.44s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.05s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.33s 72MB]
+cdo invertlat: Open failed on >an20170722_13_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.26s 56MB]
+cdo merge: Open failed on >P20170722_13_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170722_14_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170722_14_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170722_14_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170722_14_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [8.73s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [8.74s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [8.74s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [8.77s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [8.77s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170722_14_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.73s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.73s 80MB]
+cdo invertlat: Open failed on >an20170722_14_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_14_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_14_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.57s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.02s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.09s 72MB]
+cdo invertlat: Open failed on >an20170722_14_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.28s 56MB]
+cdo merge: Open failed on >P20170722_14_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170722_15_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170722_15_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170722_15_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170722_15_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [8.94s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [8.94s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [8.94s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [8.98s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [8.98s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170722_15_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.69s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.69s 80MB]
+cdo invertlat: Open failed on >an20170722_15_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_15_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_15_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.96s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.96s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.97s 72MB]
+cdo invertlat: Open failed on >an20170722_15_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.30s 56MB]
+cdo merge: Open failed on >P20170722_15_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170722_16_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170722_16_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170722_16_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170722_16_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [10.08s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [10.10s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [10.10s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [10.13s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [10.13s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170722_16_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.71s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.71s 80MB]
+cdo invertlat: Open failed on >an20170722_16_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_16_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_16_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.43s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.51s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.22s 72MB]
+cdo invertlat: Open failed on >an20170722_16_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.29s 56MB]
+cdo merge: Open failed on >P20170722_16_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170722_17_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170722_17_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170722_17_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170722_17_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [9.95s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [9.95s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [9.95s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [9.98s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [9.98s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170722_17_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.69s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.69s 80MB]
+cdo invertlat: Open failed on >an20170722_17_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_17_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_17_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.92s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.02s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.23s 72MB]
+cdo invertlat: Open failed on >an20170722_17_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.27s 56MB]
+cdo merge: Open failed on >P20170722_17_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170722_18_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170722_18_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170722_18_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170722_18_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [11.71s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [11.72s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [11.72s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [11.74s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [11.74s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170722_18_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.78s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.78s 80MB]
+cdo invertlat: Open failed on >an20170722_18_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_18_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_18_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.94s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.97s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.86s 72MB]
+cdo invertlat: Open failed on >an20170722_18_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.24s 56MB]
+cdo merge: Open failed on >P20170722_18_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170722_19_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170722_19_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170722_19_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170722_19_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [8.83s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [8.83s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [8.84s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [8.86s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [8.86s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170722_19_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.80s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.80s 80MB]
+cdo invertlat: Open failed on >an20170722_19_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_19_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_19_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.09s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.17s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.05s 72MB]
+cdo invertlat: Open failed on >an20170722_19_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.26s 56MB]
+cdo merge: Open failed on >P20170722_19_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170722_20_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170722_20_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170722_20_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170722_20_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [8.73s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [8.75s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [8.75s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [8.78s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [8.78s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170722_20_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.75s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.75s 80MB]
+cdo invertlat: Open failed on >an20170722_20_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_20_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_20_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.24s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.90s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.91s 72MB]
+cdo invertlat: Open failed on >an20170722_20_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.29s 56MB]
+cdo merge: Open failed on >P20170722_20_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170722_21_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170722_21_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170722_21_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170722_21_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [8.28s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [8.29s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [8.29s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [8.32s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [8.32s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170722_21_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.81s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.81s 80MB]
+cdo invertlat: Open failed on >an20170722_21_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_21_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_21_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.89s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.72s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.23s 72MB]
+cdo invertlat: Open failed on >an20170722_21_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.29s 56MB]
+cdo merge: Open failed on >P20170722_21_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170722_22_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170722_22_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170722_22_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170722_22_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [9.38s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [9.39s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [9.39s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [9.46s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [9.46s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170722_22_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.78s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.79s 80MB]
+cdo invertlat: Open failed on >an20170722_22_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_22_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_22_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.36s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.85s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.34s 72MB]
+cdo invertlat: Open failed on >an20170722_22_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.28s 56MB]
+cdo merge: Open failed on >P20170722_22_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170722_23_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170722_23_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170722_23_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170722_23_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [9.79s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [9.81s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [9.82s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [9.86s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [9.86s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170722_23_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.75s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.75s 80MB]
+cdo invertlat: Open failed on >an20170722_23_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_23_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170722_23_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.15s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.84s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.65s 72MB]
+cdo invertlat: Open failed on >an20170722_23_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.19s 56MB]
+cdo merge: Open failed on >P20170722_23_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170723_00_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170723_00_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170723_00_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170723_00_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [8.75s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [8.76s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [8.76s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [8.80s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [8.80s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170723_00_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.52s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.52s 80MB]
+cdo invertlat: Open failed on >an20170723_00_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_00_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_00_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.03s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.77s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.64s 72MB]
+cdo invertlat: Open failed on >an20170723_00_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.21s 56MB]
+cdo merge: Open failed on >P20170723_00_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170723_01_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170723_01_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170723_01_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170723_01_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [8.76s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [8.79s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [8.79s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [8.83s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [8.84s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170723_01_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.73s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.73s 80MB]
+cdo invertlat: Open failed on >an20170723_01_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_01_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_01_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.09s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.96s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.41s 72MB]
+cdo invertlat: Open failed on >an20170723_01_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.26s 56MB]
+cdo merge: Open failed on >P20170723_01_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170723_02_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170723_02_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170723_02_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170723_02_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [9.11s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [9.12s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [9.13s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [9.15s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [9.15s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170723_02_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.73s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.74s 80MB]
+cdo invertlat: Open failed on >an20170723_02_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_02_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_02_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.05s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.32s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.23s 72MB]
+cdo invertlat: Open failed on >an20170723_02_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.28s 56MB]
+cdo merge: Open failed on >P20170723_02_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170723_03_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170723_03_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170723_03_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170723_03_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [8.73s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [8.75s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [8.76s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [8.83s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [8.83s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170723_03_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.69s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.69s 80MB]
+cdo invertlat: Open failed on >an20170723_03_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_03_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_03_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.89s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.72s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.09s 72MB]
+cdo invertlat: Open failed on >an20170723_03_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.28s 56MB]
+cdo merge: Open failed on >P20170723_03_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170723_04_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170723_04_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170723_04_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170723_04_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [8.82s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [8.83s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [8.83s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [8.86s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [8.86s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170723_04_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.61s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.61s 80MB]
+cdo invertlat: Open failed on >an20170723_04_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_04_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_04_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.38s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.13s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.20s 72MB]
+cdo invertlat: Open failed on >an20170723_04_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.29s 56MB]
+cdo merge: Open failed on >P20170723_04_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170723_05_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170723_05_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170723_05_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170723_05_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [11.41s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [11.42s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [11.43s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [11.49s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [11.49s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170723_05_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.81s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.81s 80MB]
+cdo invertlat: Open failed on >an20170723_05_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_05_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_05_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.91s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.22s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.23s 72MB]
+cdo invertlat: Open failed on >an20170723_05_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.32s 56MB]
+cdo merge: Open failed on >P20170723_05_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170723_06_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170723_06_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170723_06_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170723_06_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [10.05s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [10.06s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [10.06s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [10.09s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [10.09s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170723_06_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.71s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.71s 80MB]
+cdo invertlat: Open failed on >an20170723_06_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_06_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_06_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.70s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.87s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.28s 72MB]
+cdo invertlat: Open failed on >an20170723_06_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.25s 56MB]
+cdo merge: Open failed on >P20170723_06_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170723_07_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170723_07_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170723_07_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170723_07_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [9.47s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [9.48s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [9.49s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [9.52s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [9.52s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170723_07_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.66s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.66s 80MB]
+cdo invertlat: Open failed on >an20170723_07_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_07_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_07_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.95s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.44s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.05s 72MB]
+cdo invertlat: Open failed on >an20170723_07_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.20s 56MB]
+cdo merge: Open failed on >P20170723_07_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170723_08_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170723_08_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170723_08_tuvw (pipe3.1)".cdo(4) chname: Started child process "chname,v,V an20170723_08_tuvw (pipe4.1)".
+
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [9.09s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [9.10s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [9.10s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [9.14s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [9.14s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170723_08_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.68s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.68s 80MB]
+cdo invertlat: Open failed on >an20170723_08_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_08_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_08_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.39s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.32s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.89s 72MB]
+cdo invertlat: Open failed on >an20170723_08_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.27s 56MB]
+cdo merge: Open failed on >P20170723_08_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170723_09_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170723_09_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170723_09_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170723_09_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [8.76s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [8.77s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [8.77s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [8.80s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [8.80s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170723_09_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.79s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.79s 80MB]
+cdo invertlat: Open failed on >an20170723_09_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_09_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_09_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.32s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.78s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.30s 72MB]
+cdo invertlat: Open failed on >an20170723_09_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.30s 56MB]
+cdo merge: Open failed on >P20170723_09_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170723_10_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170723_10_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170723_10_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170723_10_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [8.89s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [8.90s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [8.90s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [8.96s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [8.96s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170723_10_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.68s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.68s 80MB]
+cdo invertlat: Open failed on >an20170723_10_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_10_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_10_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.01s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.73s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.20s 72MB]
+cdo invertlat: Open failed on >an20170723_10_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.29s 56MB]
+cdo merge: Open failed on >P20170723_10_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170723_11_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170723_11_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170723_11_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170723_11_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [9.15s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [9.16s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [9.16s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [9.20s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [9.20s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170723_11_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.76s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.76s 80MB]
+cdo invertlat: Open failed on >an20170723_11_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_11_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_11_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.61s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.76s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.35s 72MB]
+cdo invertlat: Open failed on >an20170723_11_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.32s 56MB]
+cdo merge: Open failed on >P20170723_11_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170723_12_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170723_12_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170723_12_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170723_12_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [9.00s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [9.02s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [9.02s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [9.07s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [9.07s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170723_12_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.79s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.79s 80MB]
+cdo invertlat: Open failed on >an20170723_12_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_12_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_12_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.50s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.18s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.99s 72MB]
+cdo invertlat: Open failed on >an20170723_12_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.20s 56MB]
+cdo merge: Open failed on >P20170723_12_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170723_13_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170723_13_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170723_13_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170723_13_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [8.72s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [8.73s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [8.73s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [8.77s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [8.77s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170723_13_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.70s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.70s 80MB]
+cdo invertlat: Open failed on >an20170723_13_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_13_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_13_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.95s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.04s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.22s 72MB]
+cdo invertlat: Open failed on >an20170723_13_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.28s 56MB]
+cdo merge: Open failed on >P20170723_13_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170723_14_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170723_14_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170723_14_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170723_14_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [7.76s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [7.77s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [7.77s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [7.81s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [7.81s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170723_14_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.74s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.74s 80MB]
+cdo invertlat: Open failed on >an20170723_14_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_14_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_14_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.37s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.95s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.89s 72MB]
+cdo invertlat: Open failed on >an20170723_14_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.21s 56MB]
+cdo merge: Open failed on >P20170723_14_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170723_15_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170723_15_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170723_15_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170723_15_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [10.04s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [10.05s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [10.05s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [10.09s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [10.09s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170723_15_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.84s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.84s 80MB]
+cdo invertlat: Open failed on >an20170723_15_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_15_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_15_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.57s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.68s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.74s 72MB]
+cdo invertlat: Open failed on >an20170723_15_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.22s 56MB]
+cdo merge: Open failed on >P20170723_15_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170723_16_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170723_16_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170723_16_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170723_16_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [9.17s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [9.19s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [9.19s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [9.24s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [9.24s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170723_16_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.95s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.95s 80MB]
+cdo invertlat: Open failed on >an20170723_16_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_16_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_16_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.20s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.40s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.59s 72MB]
+cdo invertlat: Open failed on >an20170723_16_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.31s 56MB]
+cdo merge: Open failed on >P20170723_16_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170723_17_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170723_17_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170723_17_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170723_17_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [10.10s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [10.10s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [10.10s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [10.14s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [10.14s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170723_17_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.65s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.65s 80MB]
+cdo invertlat: Open failed on >an20170723_17_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_17_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_17_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.15s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.24s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.08s 72MB]
+cdo invertlat: Open failed on >an20170723_17_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.29s 56MB]
+cdo merge: Open failed on >P20170723_17_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170723_18_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170723_18_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170723_18_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170723_18_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [8.64s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [8.65s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [8.65s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [8.70s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [8.70s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170723_18_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.89s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.90s 80MB]
+cdo invertlat: Open failed on >an20170723_18_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_18_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_18_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.99s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.04s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.10s 72MB]
+cdo invertlat: Open failed on >an20170723_18_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.19s 56MB]
+cdo merge: Open failed on >P20170723_18_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170723_19_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170723_19_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170723_19_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170723_19_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [9.03s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [9.05s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [9.05s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [9.11s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [9.11s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170723_19_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.91s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.91s 80MB]
+cdo invertlat: Open failed on >an20170723_19_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_19_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_19_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.28s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.98s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.89s 72MB]
+cdo invertlat: Open failed on >an20170723_19_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.28s 56MB]
+cdo merge: Open failed on >P20170723_19_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170723_20_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170723_20_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170723_20_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170723_20_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [8.69s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [8.70s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [8.71s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [8.74s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [8.74s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170723_20_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.85s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.85s 80MB]
+cdo invertlat: Open failed on >an20170723_20_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_20_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_20_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.09s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.19s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.14s 72MB]
+cdo invertlat: Open failed on >an20170723_20_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.30s 56MB]
+cdo merge: Open failed on >P20170723_20_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170723_21_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170723_21_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170723_21_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170723_21_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [8.34s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [8.35s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [8.37s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [8.41s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [8.41s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170723_21_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.87s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.87s 80MB]
+cdo invertlat: Open failed on >an20170723_21_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_21_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_21_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.20s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.24s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [1.81s 72MB]
+cdo invertlat: Open failed on >an20170723_21_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.30s 56MB]
+cdo merge: Open failed on >P20170723_21_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170723_22_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170723_22_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170723_22_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170723_22_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [9.59s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [9.60s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [9.60s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [9.64s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [9.64s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170723_22_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.85s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.85s 80MB]
+cdo invertlat: Open failed on >an20170723_22_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_22_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_22_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.18s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.36s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.20s 72MB]
+cdo invertlat: Open failed on >an20170723_22_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.24s 56MB]
+cdo merge: Open failed on >P20170723_22_sp_cloud<
+No such file or directory
+
+cdo invertlat: Started child process "chname,t,T -chname,w,OMEGA -chname,u,U -chname,v,V an20170723_23_tuvw (pipe1.1)".
+cdo(2) chname: Started child process "chname,w,OMEGA -chname,u,U -chname,v,V an20170723_23_tuvw (pipe2.1)".
+cdo(3) chname: Started child process "chname,u,U -chname,v,V an20170723_23_tuvw (pipe3.1)".
+cdo(4) chname: Started child process "chname,v,V an20170723_23_tuvw (pipe4.1)".
+cdo(5) chname: Processed 149506560 values from 4 variables over 1 timestep [8.06s]
+cdo(4) chname: Processed 149506560 values from 4 variables over 1 timestep [8.08s]
+cdo(3) chname: Processed 149506560 values from 4 variables over 1 timestep [8.08s]
+cdo(2) chname: Processed 149506560 values from 4 variables over 1 timestep [8.12s]
+cdo invertlat: Processed 149506560 values from 4 variables over 1 timestep [8.12s 104MB]
+cdo invertlat: Started child process "chname,q,Q an20170723_23_q (pipe1.1)".
+cdo(2) chname: Processed 37376640 values from 1 variable over 1 timestep [3.87s]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [3.88s 80MB]
+cdo invertlat: Open failed on >an20170723_23_sp_cloud<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_23_sp_cloud_wc<
+No such file or directory
+
+cdo invertlat: Open failed on >an20170723_23_sp_rain_wc<
+No such file or directory
+
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.50s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.26s 72MB]
+cdo invertlat: Processed 37376640 values from 1 variable over 1 timestep [2.30s 72MB]
+cdo invertlat: Open failed on >an20170723_23_d<
+No such file or directory
+
+cdo invertlat: Processed 3114720 values from 3 variables over 1 timestep [0.29s 56MB]
+cdo merge: Open failed on >P20170723_23_sp_cloud<
+No such file or directory
+

@@ -1,0 +1,76 @@
+&share
+   year		= 2017,
+   month	= 05,
+   day		= 01,
+   hour		= 00,
+   minute	= 00,
+   time_range	= 720,
+/
+
+&input
+   file0	= "P20170501_00",
+   file1	= "P20170501_12",
+   regionf	= "regionf",
+   timeshift    = 00.00, 			! time shift relative to datafiles, format <hh.mm>
+   timeinc	= 6,				! time increment between input files
+/
+
+&output
+   ofile	= "startf.1"
+
+   ! appendix: .1 (.ls) = mode 1 ascii, sorted by trajectory
+   !           .2 (.ti) = mode 2 ascii, sorted by time
+   !           .3 (.du) = mode 3 fortran (unformatted)
+   !           .4 (.nc) = mode 4 IVE netcdf (for compatibility reason)
+   !           .-1 = mode -1
+/
+
+&params
+   ! Parameters for horizontal grid
+   hmode	= "box.grid",			
+ 
+   ! Options:			 	  Dependencies
+   ! - file : from file 		| hfile
+   ! - line : along a line		| lon1/lon2/lat1/lat2
+   ! - box.eqd: 2D box_equidistant 	| lon1/lon2/lat1/lat2/ds
+   ! - box.grid: 2D box_grid		| lon1/lon2/lat1/lat2
+   ! - point: single point		| lon1/lat1
+   ! - shift: centre + shifted		| lon1/lat1/dlon/dlat
+   ! - polygon.eqd: 2D polygon_equdistant|hfile/ds
+   ! - polygon.grid:2D polygon_grid	| hfile
+   ! - circle.eqd: 2D circle_equidistant| lon1/lat1/radius/ds
+   ! - circle.grid:2D circle_grid	| lon1/lat1/radius
+   ! - region.eqd: 2D region_equidistant| iregion/ds
+   ! - region.grid: 2D region_grid	| iregion
+   ! - mask.eqd: 0/1 masked_equidistant points | hfile,maskname,ds
+   ! - mask.grid: 0/1 masked_grid points       | hfile,maskname Ex: maskname = landmask>0 (<>|>=|<=|<|>|=|==)
+
+   lon1		= 95.  ,
+   lon2		= 125. ,
+   lat1		= 0.   ,
+   lat2		= 20.  ,
+    
+   ! Parameters for vertical grid
+   vmode	= "level",
+   
+   ! Options:				  Dependencies
+   ! - file : from file   		| vfile
+   ! - level: single level		| lev1
+   ! - list : a list of levels		| vn, levlist(i) i = 1,vn
+   ! - profile: a profile		| lev1,lev2,vn
+   ! - grid : lev1, lev2		| grid points
+   ! - nil  : if vertical grid is on hfile
+
+   lev1		= 700,
+   
+   ! Units of vertical axis
+   umode	= "hPa"
+
+   ! Options:
+   ! - hPa
+   ! - hPa.agl
+   ! - INDEX
+
+   ! selectstr	= ,
+   timecheck	= .true.,
+/

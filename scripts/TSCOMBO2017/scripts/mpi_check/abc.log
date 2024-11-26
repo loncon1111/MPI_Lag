@@ -1,0 +1,200 @@
+20170720_18
+input_date is : 20170720_18
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+[1]
+Traceback (most recent call last):
+  File "more_lay_filtered.py", line 121, in <module>
+    dst_clt.close()
+  File "netCDF4/_netCDF4.pyx", line 2156, in netCDF4._netCDF4.Dataset.close
+  File "netCDF4/_netCDF4.pyx", line 2140, in netCDF4._netCDF4.Dataset._close
+  File "netCDF4/_netCDF4.pyx", line 1638, in netCDF4._netCDF4._ensure_nc_success
+RuntimeError: NetCDF: Not a valid ID
+20170721_00
+input_date is : 20170721_00
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+[1]
+Traceback (most recent call last):
+  File "more_lay_filtered.py", line 121, in <module>
+    dst_clt.close()
+  File "netCDF4/_netCDF4.pyx", line 2156, in netCDF4._netCDF4.Dataset.close
+  File "netCDF4/_netCDF4.pyx", line 2140, in netCDF4._netCDF4.Dataset._close
+  File "netCDF4/_netCDF4.pyx", line 1638, in netCDF4._netCDF4._ensure_nc_success
+RuntimeError: NetCDF: Not a valid ID
+20170721_06
+input_date is : 20170721_06
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+[1]
+Traceback (most recent call last):
+  File "more_lay_filtered.py", line 121, in <module>
+    dst_clt.close()
+  File "netCDF4/_netCDF4.pyx", line 2156, in netCDF4._netCDF4.Dataset.close
+  File "netCDF4/_netCDF4.pyx", line 2140, in netCDF4._netCDF4.Dataset._close
+  File "netCDF4/_netCDF4.pyx", line 1638, in netCDF4._netCDF4._ensure_nc_success
+RuntimeError: NetCDF: Not a valid ID
+20170721_12
+input_date is : 20170721_12
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+[1]
+Traceback (most recent call last):
+  File "more_lay_filtered.py", line 121, in <module>
+    dst_clt.close()
+  File "netCDF4/_netCDF4.pyx", line 2156, in netCDF4._netCDF4.Dataset.close
+  File "netCDF4/_netCDF4.pyx", line 2140, in netCDF4._netCDF4.Dataset._close
+  File "netCDF4/_netCDF4.pyx", line 1638, in netCDF4._netCDF4._ensure_nc_success
+RuntimeError: NetCDF: Not a valid ID
+20170721_18
+input_date is : 20170721_18
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+[1]
+Traceback (most recent call last):
+  File "more_lay_filtered.py", line 121, in <module>
+    dst_clt.close()
+  File "netCDF4/_netCDF4.pyx", line 2156, in netCDF4._netCDF4.Dataset.close
+  File "netCDF4/_netCDF4.pyx", line 2140, in netCDF4._netCDF4.Dataset._close
+  File "netCDF4/_netCDF4.pyx", line 1638, in netCDF4._netCDF4._ensure_nc_success
+RuntimeError: NetCDF: Not a valid ID
+20170722_00
+input_date is : 20170722_00
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+[1 2]
+Traceback (most recent call last):
+  File "more_lay_filtered.py", line 121, in <module>
+    dst_clt.close()
+  File "netCDF4/_netCDF4.pyx", line 2156, in netCDF4._netCDF4.Dataset.close
+  File "netCDF4/_netCDF4.pyx", line 2140, in netCDF4._netCDF4.Dataset._close
+  File "netCDF4/_netCDF4.pyx", line 1638, in netCDF4._netCDF4._ensure_nc_success
+RuntimeError: NetCDF: Not a valid ID
+20170722_06
+input_date is : 20170722_06
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+[1]
+Traceback (most recent call last):
+  File "more_lay_filtered.py", line 121, in <module>
+    dst_clt.close()
+  File "netCDF4/_netCDF4.pyx", line 2156, in netCDF4._netCDF4.Dataset.close
+  File "netCDF4/_netCDF4.pyx", line 2140, in netCDF4._netCDF4.Dataset._close
+  File "netCDF4/_netCDF4.pyx", line 1638, in netCDF4._netCDF4._ensure_nc_success
+RuntimeError: NetCDF: Not a valid ID
+20170722_12
+input_date is : 20170722_12
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+[1]
+Traceback (most recent call last):
+  File "more_lay_filtered.py", line 121, in <module>
+    dst_clt.close()
+  File "netCDF4/_netCDF4.pyx", line 2156, in netCDF4._netCDF4.Dataset.close
+  File "netCDF4/_netCDF4.pyx", line 2140, in netCDF4._netCDF4.Dataset._close
+  File "netCDF4/_netCDF4.pyx", line 1638, in netCDF4._netCDF4._ensure_nc_success
+RuntimeError: NetCDF: Not a valid ID
+20170722_18
+input_date is : 20170722_18
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+[1]
+Traceback (most recent call last):
+  File "more_lay_filtered.py", line 121, in <module>
+    dst_clt.close()
+  File "netCDF4/_netCDF4.pyx", line 2156, in netCDF4._netCDF4.Dataset.close
+  File "netCDF4/_netCDF4.pyx", line 2140, in netCDF4._netCDF4.Dataset._close
+  File "netCDF4/_netCDF4.pyx", line 1638, in netCDF4._netCDF4._ensure_nc_success
+RuntimeError: NetCDF: Not a valid ID
+20170723_00
+input_date is : 20170723_00
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+[1]
+Traceback (most recent call last):
+  File "more_lay_filtered.py", line 121, in <module>
+    dst_clt.close()
+  File "netCDF4/_netCDF4.pyx", line 2156, in netCDF4._netCDF4.Dataset.close
+  File "netCDF4/_netCDF4.pyx", line 2140, in netCDF4._netCDF4.Dataset._close
+  File "netCDF4/_netCDF4.pyx", line 1638, in netCDF4._netCDF4._ensure_nc_success
+RuntimeError: NetCDF: Not a valid ID

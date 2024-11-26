@@ -1,0 +1,35 @@
+&params
+   fbflag       = -1     ,
+   timecheck    = .false. ,
+   tst          = 0     ,
+   ten          = 0       ,
+/
+
+&input
+   startdate    = 20170723_0000,
+   enddate      = 20170720_0000,
+   inpfile      = "ofile_20170723_00_SONCA_clt.4",
+   numdat       = 73     ,
+   timeinc      = 1     ,
+   per          = 0
+   ntra         = 2193 ,
+   ntim         = 73     ,
+   ncol         = 4     ,
+/
+
+&tracevars
+   ntrace0      = 15     ,
+   tvar         = 'U' 'V' 'Q' 'T' 'DUDX' 'DVDX' 'DUDY' 'DVDY' 'DUDP' 'DVDP' 'TH' 'THE' 'DTHDX' 'DTHDY' 'DTHDP',
+   ! Available diagnostics: TH,THE,PV,RH,DUDX,DUDY,DVDX,DVDY,DTDX,DTDY,...
+   tfile        = 'varlist'
+/
+&interparams
+   intmode      = "circle_avg",
+   radius       = 200   ,
+   ! Availabe interpolation method:
+   !'nearest','circle_avg','circle_min','circle_max','normal','default'
+/
+
+&output
+   outfile      = "lsl_20170723_00_SONCA_clt.4",
+/

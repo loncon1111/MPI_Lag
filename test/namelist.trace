@@ -1,0 +1,35 @@
+&params
+   fbflag       = 1     ,
+   timecheck    = .false. ,
+   tst          = 0     ,
+   ten          = 0       ,
+/
+
+&input
+   startdate    = 20170715_0600,
+   enddate      = 20170715_1800,
+   inpfile      = "ofile_20170715_06.4",
+   numdat       = 13     ,
+   timeinc      = 1     ,
+   per          = 0
+   ntra         = 282410 ,
+   ntim         = 13     ,
+   ncol         = 4     ,
+/
+
+&tracevars
+   ntrace0      = 15     ,
+   tvar         = 'U' 'V' 'Q' 'T' 'TH' 'THE' 'DIST' 'DIST0' 'HEAD' 'DANGLE' 'RELVORT' 'R_EIGVAL1' 'R_EIGVAL2' 'I_EIGVAL1' 'I_EIGVAL2',
+   ! Available diagnostics: TH,THE,PV,RH,DUDX,DUDY,DVDX,DVDY,DTDX,DTDY,...
+   tfile        = 'varlist'
+/
+&interparams
+   intmode      = "circle_avg",
+   radius       = 200   ,
+   ! Availabe interpolation method:
+   !'nearest','circle_avg','circle_min','circle_max','normal','default'
+/
+
+&output
+   outfile      = "lsl_20170715_06.4",
+/

@@ -1,0 +1,357 @@
+ ================================================================
+                *** START OF PROGRAM TRACE ***                   
+
+ U            1            0
+ V            1            0
+ Q            1            0
+ T            1            0
+ DUDX         1            1
+ DVDX         1            1
+ DUDY         1            1
+ DVDY         1            1
+ DUDP         1            1
+ DVDP         1            1
+ TH           1            1
+ THE          1            1
+ DTHDX        1            1
+ DTHDY        1            1
+ DTHDP        1            1
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ -------------------- INPUT PARAMETERS ----------------------
+
+    Input trajectory file    : ofile_20170713_18_clt.4
+    Output trajectory file   : lsl_20170713_18_clt.4
+    Format of input file     :            4
+    Format of output file    :            4
+    Forward/backward         :           -1
+    # tra                    :         3358
+    # col                    :            4
+    # tim                    :           73
+    No time check            :  F
+    Interpolation mode       : circle_avg
+    Tracing field           : U   1.00000000      0
+    Tracing field           : V   1.00000000      0
+    Tracing field           : Q   1.00000000      0
+    Tracing field           : T   1.00000000      0
+    Tracing field           : DUDX   1.00000000      1
+    Tracing field           : DVDX   1.00000000      1
+    Tracing field           : DUDY   1.00000000      1
+    Tracing field           : DVDY   1.00000000      1
+    Tracing field           : DUDP   1.00000000      1
+    Tracing field           : DVDP   1.00000000      1
+    Tracing field           : TH   1.00000000      1
+    Tracing field           : THE   1.00000000      1
+    Tracing field           : DTHDX   1.00000000      1
+    Tracing field           : DTHDY   1.00000000      1
+    Tracing field           : DTHDP   1.00000000      1
+
+ ------------------- INPUT DATA FILES ----------------------
+
+   Time of 1st data file     :    0.00000000    
+   # input file              :           73
+   time increment            :    1.00000000    
+   Shift of start            :    0.00000000    
+   Shift of end              :    0.00000000    
+   First/Last input file     : P20170713_18  ...  P20170713_17
+   Primary variables         : U  V  Q  T  DUDX  DVDX  DUDY  DVDY  DUDP  DVDP  TH  THE  DTHDX  DTHDY  DTHDP  
+
+ ------------------- CONSTANT GRID PARAMETERS ----------------------
+
+    xmin,xmax                :    0.00000000       360.000000    
+    ymin,ymax                :   -90.0000000       90.0000000    
+    dx,dy                    :   0.250000000      0.250000000    
+    pollon,pollat            :    0.00000000       90.0000000    
+    nx,ny,nz                 :         1441         721          22
+    per,hem                  :            1           1
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Variable not found                                                      
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Variable not found                                                      
+
+ ------------------ INPUT TRAJECTORIES -------------------
+
+   Start date                : 20170713_1800
+   End date                  : 20170710_1800
+   Reference time (year)     :         2017
+                  (month)    :            7
+                  (date)     :           13
+                  (hour)     :           18
+                  (minute)   :            0
+   Time range (in min)       :        -4320
+   Var                           :            1 time
+   Var                           :            2 lon
+   Var                           :            3 lat
+   Var                           :            4 p
+
+
+  --------- COMPLETE TABLE FOR TRACING ------------- 
+
+   1  :               U      0.00     nil     nil       0
+   2  :               V      0.00     nil     nil       0
+   3  :               Q      0.00     nil     nil       0
+   4  :               T      0.00     nil     nil       0
+   5  :            DUDX      0.00     nil     nil       1
+   6  :            DVDX      0.00     nil     nil       1
+   7  :            DUDY      0.00     nil     nil       1
+   8  :            DVDY      0.00     nil     nil       1
+   9  :            DUDP      0.00     nil     nil       1
+  10  :            DVDP      0.00     nil     nil       1
+  11  :              TH      0.00     nil     nil       1
+  12  :             THE      0.00     nil     nil       1
+  13  :           DTHDX      0.00     nil     nil       1
+  14  :           DTHDY      0.00     nil     nil       1
+  15  :           DTHDP      0.00     nil     nil       1
+  16  :               U      0.25    DLON     nil       0
+  17  :               U     -0.25    DLON     nil       0
+  18  :               V      0.25    DLON     nil       0
+  19  :               V     -0.25    DLON     nil       0
+  20  :               U      0.25    DLAT     nil       0
+  21  :               U     -0.25    DLAT     nil       0
+  22  :               V      0.25    DLAT     nil       0
+  23  :               V     -0.25    DLAT     nil       0
+  24  :               P      0.00     nil     nil       0
+  25  :               U      1.00      DP     nil       0
+  26  :               U     -1.00      DP     nil       0
+  27  :               P      1.00      DP     nil       0
+  28  :               P     -1.00      DP     nil       0
+  29  :               V      1.00      DP     nil       0
+  30  :               V     -1.00      DP     nil       0
+  31  :               T      0.25    DLON     nil       0
+  32  :               T     -0.25    DLON     nil       0
+  33  :               T      0.25    DLAT     nil       0
+  34  :               T     -0.25    DLAT     nil       0
+  35  :               T      1.00      DP     nil       0
+  36  :               T     -1.00      DP     nil       0
+
+ ----- TRACING FROM FILES ---------
+
+  Now tracing                  : U   0.00000000     nil           0  
+        -> loading             P20170713_18       U   0.00
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Variable not found                                                      
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Variable not found                                                      
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Variable not found                                                      
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Variable not found                                                      
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Variable not found                                                      
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Variable not found                                                      
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Variable not found                                                      
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Variable not found                                                      
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Variable not found                                                      
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Variable not found                                                      
+        -> loading             P20170713_17       U  -1.00
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Variable not found                                                      
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Variable not found                                                      
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Variable not found                                                      
+ NetCDF: Invalid dimension ID or name                                            
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+ NetCDF: Start+count exceeds dimension bound                                     
+ NetCDF: Variable not found                                                      
+[mpiexec@cefd-login.cluster] Sending Ctrl-C to processes as requested
+[mpiexec@cefd-login.cluster] Press Ctrl-C again to force abort

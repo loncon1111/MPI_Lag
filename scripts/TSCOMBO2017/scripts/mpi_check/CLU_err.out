@@ -1,0 +1,160 @@
+Traceback (most recent call last):
+  File "mpi_alllevs_2d.py", line 185, in <module>
+    latind_1 = lats[ilat]
+IndexError: index 127 is out of bounds for axis 0 with size 121
+Traceback (most recent call last):
+  File "mpi_alllevs_2d.py", line 185, in <module>
+    latind_1 = lats[ilat]
+IndexError: index 190 is out of bounds for axis 0 with size 121
+Traceback (most recent call last):
+  File "mpi_alllevs_2d.py", line 185, in <module>
+    latind_1 = lats[ilat]
+IndexError: index 188 is out of bounds for axis 0 with size 121
+Traceback (most recent call last):
+  File "mpi_alllevs_2d.py", line 185, in <module>
+    latind_1 = lats[ilat]
+IndexError: index 187 is out of bounds for axis 0 with size 121
+Traceback (most recent call last):
+  File "mpi_alllevs_2d.py", line 185, in <module>
+    latind_1 = lats[ilat]
+IndexError: index 188 is out of bounds for axis 0 with size 121
+Traceback (most recent call last):
+  File "mpi_alllevs_2d.py", line 185, in <module>
+    latind_1 = lats[ilat]
+IndexError: index 185 is out of bounds for axis 0 with size 121
+Traceback (most recent call last):
+  File "mpi_alllevs_2d.py", line 185, in <module>
+    latind_1 = lats[ilat]
+IndexError: index 186 is out of bounds for axis 0 with size 121
+Traceback (most recent call last):
+  File "mpi_alllevs_2d.py", line 185, in <module>
+    latind_1 = lats[ilat]
+IndexError: index 138 is out of bounds for axis 0 with size 121
+Traceback (most recent call last):
+  File "mpi_alllevs_2d.py", line 185, in <module>
+    latind_1 = lats[ilat]
+IndexError: index 190 is out of bounds for axis 0 with size 121
+Traceback (most recent call last):
+  File "mpi_alllevs_2d.py", line 185, in <module>
+    latind_1 = lats[ilat]
+IndexError: index 190 is out of bounds for axis 0 with size 121
+WARNING:root:maximum allowed iterations reached while optimizing the alpha parameter
+Traceback (most recent call last):
+  File "mpi_alllevs_2d.py", line 185, in <module>
+    latind_1 = lats[ilat]
+IndexError: index 129 is out of bounds for axis 0 with size 121
+Traceback (most recent call last):
+  File "mpi_alllevs_2d.py", line 185, in <module>
+    latind_1 = lats[ilat]
+IndexError: index 124 is out of bounds for axis 0 with size 121
+WARNING:root:maximum allowed iterations reached while optimizing the alpha parameter
+Traceback (most recent call last):
+  File "mpi_alllevs_2d.py", line 185, in <module>
+    latind_1 = lats[ilat]
+IndexError: index 192 is out of bounds for axis 0 with size 121
+WARNING:root:maximum allowed iterations reached while optimizing the alpha parameter
+Traceback (most recent call last):
+  File "mpi_alllevs_2d.py", line 185, in <module>
+    latind_1 = lats[ilat]
+IndexError: index 159 is out of bounds for axis 0 with size 121
+WARNING:root:maximum allowed iterations reached while optimizing the alpha parameter
+Traceback (most recent call last):
+  File "mpi_alllevs_2d.py", line 185, in <module>
+    latind_1 = lats[ilat]
+IndexError: index 190 is out of bounds for axis 0 with size 121
+WARNING:root:maximum allowed iterations reached while optimizing the alpha parameter
+Traceback (most recent call last):
+  File "mpi_alllevs_2d.py", line 185, in <module>
+    latind_1 = lats[ilat]
+IndexError: index 135 is out of bounds for axis 0 with size 121
+WARNING:root:maximum allowed iterations reached while optimizing the alpha parameter
+Traceback (most recent call last):
+  File "mpi_alllevs_2d.py", line 185, in <module>
+    latind_1 = lats[ilat]
+IndexError: index 130 is out of bounds for axis 0 with size 121
+WARNING:root:maximum allowed iterations reached while optimizing the alpha parameter
+Traceback (most recent call last):
+  File "mpi_alllevs_2d.py", line 185, in <module>
+    latind_1 = lats[ilat]
+IndexError: index 131 is out of bounds for axis 0 with size 121
+WARNING:root:maximum allowed iterations reached while optimizing the alpha parameter
+Traceback (most recent call last):
+  File "mpi_alllevs_2d.py", line 185, in <module>
+    latind_1 = lats[ilat]
+IndexError: index 138 is out of bounds for axis 0 with size 121
+WARNING:root:maximum allowed iterations reached while optimizing the alpha parameter
+Traceback (most recent call last):
+  File "mpi_alllevs_2d.py", line 185, in <module>
+    latind_1 = lats[ilat]
+IndexError: index 137 is out of bounds for axis 0 with size 121
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+srun: error: compute-1-3: tasks 0-15: Exited with exit code 1
+WARNING:root:maximum allowed iterations reached while optimizing the alpha parameter
+Traceback (most recent call last):
+  File "mpi_alllevs_2d.py", line 185, in <module>
+    latind_1 = lats[ilat]
+IndexError: index 121 is out of bounds for axis 0 with size 121
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+Error in system call pthread_mutex_destroy: Device or resource busy
+    src/mpi/init/initthread.c:241
+srun: error: compute-1-2: tasks 0-15: Exited with exit code 1

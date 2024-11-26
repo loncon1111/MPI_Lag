@@ -1,0 +1,8 @@
+#!/bin/bash
+
+module load anaconda3/5.1.0_gnu_64
+module load cdo/1.9.3_gnu_64
+module load mvapich2/2.3a_hydra_gnu_64 
+module load netcdf/4.3.3.1_gnu_64
+module load lapack/3.5.0_gnu_64           # lib lapack for calculating maths
+ 

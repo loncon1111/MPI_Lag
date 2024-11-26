@@ -1,0 +1,31 @@
+&params
+   fbflag	= 1	   ,
+   imethod	= 3	   ,
+   jflag	= 1,
+   wfactor	= 1.,
+   timecheck	= .true.,
+   ts		= 5,
+   tst		= 0,
+   ten		= 0,
+/
+
+&input
+   year		= 2017  ,
+   month	= 07	   ,
+   day		= 15    ,
+   hour	        = 06	   ,
+   minute	= 00   ,
+   time_range	= 720,
+   modlev	= .false.,
+   numdat	= 13,
+   timeinc	= 1,
+   per		= 0,
+   strname	= "startf_20170715_06.4",
+   ntra		= 282410,
+   ncol		= 5,
+/
+
+&output
+   cdfname	= "ofile_20170715_06.4",
+   deltout	= 60,
+/

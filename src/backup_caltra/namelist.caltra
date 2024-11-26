@@ -1,0 +1,31 @@
+&params
+   fbflag	= 1	   ,
+   imethod	= 3	   ,
+   jflag	= 1,
+   wfactor	= 1.,
+   timecheck	= .false.,
+   ts		= 30,
+   tst		= 0,
+   ten		= 0,
+/
+
+&input
+   year		= 2017  ,
+   month	= 05	   ,
+   day		= 01    ,
+   hour	        = 00	   ,
+   minute	= 00   ,
+   time_range	= 720,
+   modlev	= .false.,
+   numdat	= 3,
+   timeinc	= 6,
+   per		= 0,
+   strname	= "start_points",
+   ntra		= 3,
+   ncol		= 3,
+/
+
+&output
+   cdfname	= "lsl_out.1",
+   deltout	= 360,
+/

@@ -1,0 +1,31 @@
+&params
+   fbflag	= -1	   ,
+   imethod	= 3	   ,
+   jflag	= 1,
+   wfactor	= 1.,
+   timecheck	= .true.,
+   ts		= 5,
+   tst		= 0,
+   ten		= 0,
+/
+
+&input
+   year		= 2017  ,
+   month	= 07	   ,
+   day		= 23    ,
+   hour	        = 00	   ,
+   minute	= 00   ,
+   time_range	= 4320,
+   modlev	= .false.,
+   numdat	= 73,
+   timeinc	= 1,
+   per		= 0,
+   strname	= "startf_20170723_00_SONCA_clt.4",
+   ntra		= 2193,
+   ncol		= 5,
+/
+
+&output
+   cdfname	= "ofile_20170723_00_SONCA_clt.4",
+   deltout	= 60,
+/

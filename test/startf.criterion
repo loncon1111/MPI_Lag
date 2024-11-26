@@ -1,0 +1,46 @@
+   ! Parameters for horizontal grid
+   hmode        = "box.grid",
+   !hmode 	= "point"   
+
+   ! Options:                             Dependencies
+   ! - file : from file                 | hfile
+   ! - line : along a line              | lon1/lon2/lat1/lat2
+   ! - box.eqd: 2D box_equidistant      | lon1/lon2/lat1/lat2/ds
+   ! - box.grid: 2D box_grid            | lon1/lon2/lat1/lat2
+   ! - point: single point              | lon1/lat1
+   ! - shift: centre + shifted          | lon1/lat1/dlon/dlat
+   ! - polygon.eqd: 2D polygon_equdistant|hfile/ds
+   ! - polygon.grid:2D polygon_grid     | hfile
+   ! - circle.eqd: 2D circle_equidistant| lon1/lat1/radius/ds
+   ! - circle.grid:2D circle_grid       | lon1/lat1/radius
+   ! - region.eqd: 2D region_equidistant| iregion/ds
+   ! - region.grid: 2D region_grid      | iregion
+   ! - mask.eqd: 0/1 masked_equidistant points | hfile,maskname,ds
+   ! - mask.grid: 0/1 masked_grid points       | hfile,maskname Ex: maskname = landmask>0 (<>|>=|<=|<|>|=|==)
+
+   lon1         = 90.  ,
+   lon2         = 145. ,
+   lat1         = 0.   ,
+   lat2         = 30.  ,
+
+   ! Parameters for vertical grid
+   vmode        = "list",
+
+   ! Options:                             Dependencies
+   ! - file : from file                 | vfile
+   ! - level: single level              | lev1
+   ! - list : a list of levels          | vn, levlist(i) i = 1,vn
+   ! - profile: a profile               | lev1,lev2,vn
+   ! - grid : lev1, lev2                | grid points
+   ! - nil  : if vertical grid is on hfile
+
+   vn		=    12,
+   levlist      = 1000. 900. 850. 800. 750. 700. 650. 600. 500. 400. 300. 200.,
+
+   ! Units of vertical axis
+   umode        = "hPa"
+
+   ! Options:
+   ! - hPa
+   ! - hPa.agl means about ground level
+   ! - INDEX

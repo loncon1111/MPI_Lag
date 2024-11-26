@@ -1,0 +1,35 @@
+&params
+   fbflag	= 1	,
+   timecheck    = .false.,
+   tst		= 0	,
+   ten		= 0	,
+/
+
+&input
+   startdate	= 20170501_00,
+   enddate	= 20170501_12,
+   inpfile	= "lsl_out.1",
+   numdat	= 3	,
+   timeinc	= 6	,
+   per		= 0	,
+   ntra		= 3	,
+   ntim		= 3	,
+   ncol		= 4	,
+/
+
+&tracevars
+   ntrace0	= 9	,
+   tvar		= 'DIST' 'DIST0' 'RH' 'TH' 'THE' 'DUDX' 'DVDX' 'DUDY' 'DVDY' 'DUDP' 'DVDP',
+   ! Available diagnostics: TH,THE,PV,RH,DUDX,DUDY,DVDX,DVDY,DTDX,DTDY,...
+   tfile	= 'varlist',
+/
+
+&interparams
+   intmode	= 'circle_avg',
+   radius	= 100	,
+   ! Availabe interpolation method: 'nearest','circle_avg','circle_min','circle_max','normal','default'
+/
+
+&output
+   outfile	= "lsl_outtrace.1"
+/

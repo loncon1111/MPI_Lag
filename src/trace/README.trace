@@ -1,0 +1,31 @@
+NAME
+	trace - trace meteorological fields along trajectories
+SYNOPSIS
+	trace inpfile outfile [ optional arguments ]
+DESCRIPTION
+	Trace meteorological fields along the trajectories given in the input file inpfile and write a new trajectory
+	file outfile tracing file (default: tracevars). Partly they can be computed "online" (see ONLINE CALCULATIONS below), normally they are availbale on the primary and secondary P and S files.
+PARAMETERS
+	inpfile : input trajectory file; the appendix determines the format (see reformat for details).
+	outfile : output trajectory file; the appendix determines the format (see reformat for details).
+TRACING FILE
+Normally the meteorological fields for tracing are listed in a file with name tracevars . The name of the
+tracing file can be changed with the optional argument "-v" (see below). The format of the tracing file is as
+follows:
+Format
+field[:shift] scale computation prefix
+Shifts (optional)
+- field:+100km[lat] - get field at trajectory position + 100 km shifted to north. A shift to south is
+obtained with field:-100km[lat].
+- field:+100km[lon] - get field at trajectory position + 100 km shifted to east. A shift to west is
+obtained with field:-100km[lon].
+- field:+2[dlat] - get field at trajectory position + 2 grid spacings dlat shifted to north. A shift to south
+is obtained with field:-2[dlat].
+- field:+2[dlon] - get field at trajectory position + 2 grid spacings dlon shifted to east. A shift to west
+is obtained with field:-2[dlon].
+- field:+50hPa - get field at trajectory position + 50 hPa shifted in vertical. A shift to lower pressures
+is obtained with field:-50hPa.
+- field:+1dp - get field at trajectory position + 1 grid spacing DP shifted in vertical. A shift to lower
+pressures is obtained with field:-1dp. Note that DP is not fixed but varies with height.
+- field:+6h - get field at trajectory position, but 6 h in the future. Shifts to the past are poeeible with
+field:-6h. In addition to hours (h), the time shift can be specified in minutes (min).

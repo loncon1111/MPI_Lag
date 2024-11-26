@@ -1,0 +1,896 @@
+20170725_00
+
+// global attributes:
+		:domxmin = -3.283141e-21f ;
+		:domxmax = 2.153915e-37f ;
+		:domymin = 4.591495e-41f ;
+		:domymax = 0.f ;
+		:domzmin = 1.401298e-45f ;
+		:domzmax = 5.463527e+29f ;
+		:constants_file_name = "lsl_20170725_00.4_cst" ;
+}
+<xarray.DataArray 'BASEDATE' (dimz_lon: 1, dimy_lon: 1, dimx_BASEDATE: 6)>
+array([[[2017.,    7.,   25.,    0.,    0.,  720.]]], dtype=float32)
+Coordinates:
+    time     float32 0.0
+Dimensions without coordinates: dimz_lon, dimy_lon, dimx_BASEDATE
+Attributes:
+    xmin:          0.0
+    xmax:          0.0
+    xstag:         0.0
+    ymin:          0.0
+    ymax:          0.0
+    ystag:         0.0
+    zmin:          0.0
+    zmax:          0.0
+    zstag:         0.0
+    missing_data:  -999.99
+282203
+13
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF4_CLASSIC data model, file format HDF5):
+    dimensions(sizes): 
+    variables(dimensions): 
+    groups: 
+
+('latitude', <class 'netCDF4._netCDF4.Dimension'>: name = 'latitude', size = 121
+)
+('longitude', <class 'netCDF4._netCDF4.Dimension'>: name = 'longitude', size = 221
+)
+('level', <class 'netCDF4._netCDF4.Dimension'>: name = 'level', size = 11
+)
+('time', <class 'netCDF4._netCDF4.Dimension'> (unlimited): name = 'time', size = 0
+)
+('dimx_BASEDATE', <class 'netCDF4._netCDF4.Dimension'>: name = 'dimx_BASEDATE', size = 6
+)
+OWLAG value data
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF4_CLASSIC data model, file format HDF5):
+    title: OWLAG value data
+    subtitle: My model data subtitle
+    anything: Write anything
+    dimensions(sizes): latitude(121), longitude(221), level(11), time(0), dimx_BASEDATE(6)
+    variables(dimensions): float32 [4mlatitude[0m(latitude), float32 [4mlongitude[0m(longitude), float32 [4mlevel[0m(level), float64 [4mtime[0m(time), float64 [4mreig1[0m(level,latitude,longitude), float64 [4mieig1[0m(level,latitude,longitude), int32 [4mBASEDATE[0m(dimx_BASEDATE)
+    groups: 
+
+Dataset is closed!
+20170725_06
+
+// global attributes:
+		:domxmin = -5.898139e-06f ;
+		:domxmax = 9.523153e-38f ;
+		:domymin = 4.591495e-41f ;
+		:domymax = 0.f ;
+		:domzmin = 1.401298e-45f ;
+		:domzmax = 3.799434e+37f ;
+		:constants_file_name = "lsl_20170725_06.4_cst" ;
+}
+<xarray.DataArray 'BASEDATE' (dimz_lon: 1, dimy_lon: 1, dimx_BASEDATE: 6)>
+array([[[2017.,    7.,   25.,    6.,    0.,  720.]]], dtype=float32)
+Coordinates:
+    time     float32 0.0
+Dimensions without coordinates: dimz_lon, dimy_lon, dimx_BASEDATE
+Attributes:
+    xmin:          0.0
+    xmax:          0.0
+    xstag:         0.0
+    ymin:          0.0
+    ymax:          0.0
+    ystag:         0.0
+    zmin:          0.0
+    zmax:          0.0
+    zstag:         0.0
+    missing_data:  -999.99
+282051
+13
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF4_CLASSIC data model, file format HDF5):
+    dimensions(sizes): 
+    variables(dimensions): 
+    groups: 
+
+('latitude', <class 'netCDF4._netCDF4.Dimension'>: name = 'latitude', size = 121
+)
+('longitude', <class 'netCDF4._netCDF4.Dimension'>: name = 'longitude', size = 221
+)
+('level', <class 'netCDF4._netCDF4.Dimension'>: name = 'level', size = 11
+)
+('time', <class 'netCDF4._netCDF4.Dimension'> (unlimited): name = 'time', size = 0
+)
+('dimx_BASEDATE', <class 'netCDF4._netCDF4.Dimension'>: name = 'dimx_BASEDATE', size = 6
+)
+OWLAG value data
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF4_CLASSIC data model, file format HDF5):
+    title: OWLAG value data
+    subtitle: My model data subtitle
+    anything: Write anything
+    dimensions(sizes): latitude(121), longitude(221), level(11), time(0), dimx_BASEDATE(6)
+    variables(dimensions): float32 [4mlatitude[0m(latitude), float32 [4mlongitude[0m(longitude), float32 [4mlevel[0m(level), float64 [4mtime[0m(time), float64 [4mreig1[0m(level,latitude,longitude), float64 [4mieig1[0m(level,latitude,longitude), int32 [4mBASEDATE[0m(dimx_BASEDATE)
+    groups: 
+
+Dataset is closed!
+20170725_12
+
+// global attributes:
+		:domxmin = 6.280462e-24f ;
+		:domxmax = 1.711253e-37f ;
+		:domymin = 4.591354e-41f ;
+		:domymax = 0.f ;
+		:domzmin = 1.401298e-45f ;
+		:domzmax = -1.455311e-28f ;
+		:constants_file_name = "lsl_20170725_12.4_cst" ;
+}
+<xarray.DataArray 'BASEDATE' (dimz_lon: 1, dimy_lon: 1, dimx_BASEDATE: 6)>
+array([[[2017.,    7.,   25.,   12.,    0.,  720.]]], dtype=float32)
+Coordinates:
+    time     float32 0.0
+Dimensions without coordinates: dimz_lon, dimy_lon, dimx_BASEDATE
+Attributes:
+    xmin:          0.0
+    xmax:          0.0
+    xstag:         0.0
+    ymin:          0.0
+    ymax:          0.0
+    ystag:         0.0
+    zmin:          0.0
+    zmax:          0.0
+    zstag:         0.0
+    missing_data:  -999.99
+282030
+13
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF4_CLASSIC data model, file format HDF5):
+    dimensions(sizes): 
+    variables(dimensions): 
+    groups: 
+
+('latitude', <class 'netCDF4._netCDF4.Dimension'>: name = 'latitude', size = 121
+)
+('longitude', <class 'netCDF4._netCDF4.Dimension'>: name = 'longitude', size = 221
+)
+('level', <class 'netCDF4._netCDF4.Dimension'>: name = 'level', size = 11
+)
+('time', <class 'netCDF4._netCDF4.Dimension'> (unlimited): name = 'time', size = 0
+)
+('dimx_BASEDATE', <class 'netCDF4._netCDF4.Dimension'>: name = 'dimx_BASEDATE', size = 6
+)
+OWLAG value data
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF4_CLASSIC data model, file format HDF5):
+    title: OWLAG value data
+    subtitle: My model data subtitle
+    anything: Write anything
+    dimensions(sizes): latitude(121), longitude(221), level(11), time(0), dimx_BASEDATE(6)
+    variables(dimensions): float32 [4mlatitude[0m(latitude), float32 [4mlongitude[0m(longitude), float32 [4mlevel[0m(level), float64 [4mtime[0m(time), float64 [4mreig1[0m(level,latitude,longitude), float64 [4mieig1[0m(level,latitude,longitude), int32 [4mBASEDATE[0m(dimx_BASEDATE)
+    groups: 
+
+Dataset is closed!
+20170725_18
+
+// global attributes:
+		:domxmin = 1.400894e-14f ;
+		:domxmax = -6.994156e-10f ;
+		:domymin = 4.591495e-41f ;
+		:domymax = 1.547874e-41f ;
+		:domzmin = -4.968577e-10f ;
+		:domzmax = 7.37283e-38f ;
+		:constants_file_name = "lsl_20170725_18.4_cst" ;
+}
+<xarray.DataArray 'BASEDATE' (dimz_lon: 1, dimy_lon: 1, dimx_BASEDATE: 6)>
+array([[[2017.,    7.,   25.,   18.,    0.,  720.]]], dtype=float32)
+Coordinates:
+    time     float32 0.0
+Dimensions without coordinates: dimz_lon, dimy_lon, dimx_BASEDATE
+Attributes:
+    xmin:          0.0
+    xmax:          0.0
+    xstag:         0.0
+    ymin:          0.0
+    ymax:          0.0
+    ystag:         0.0
+    zmin:          0.0
+    zmax:          0.0
+    zstag:         0.0
+    missing_data:  -999.99
+282261
+13
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF4_CLASSIC data model, file format HDF5):
+    dimensions(sizes): 
+    variables(dimensions): 
+    groups: 
+
+('latitude', <class 'netCDF4._netCDF4.Dimension'>: name = 'latitude', size = 121
+)
+('longitude', <class 'netCDF4._netCDF4.Dimension'>: name = 'longitude', size = 221
+)
+('level', <class 'netCDF4._netCDF4.Dimension'>: name = 'level', size = 11
+)
+('time', <class 'netCDF4._netCDF4.Dimension'> (unlimited): name = 'time', size = 0
+)
+('dimx_BASEDATE', <class 'netCDF4._netCDF4.Dimension'>: name = 'dimx_BASEDATE', size = 6
+)
+OWLAG value data
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF4_CLASSIC data model, file format HDF5):
+    title: OWLAG value data
+    subtitle: My model data subtitle
+    anything: Write anything
+    dimensions(sizes): latitude(121), longitude(221), level(11), time(0), dimx_BASEDATE(6)
+    variables(dimensions): float32 [4mlatitude[0m(latitude), float32 [4mlongitude[0m(longitude), float32 [4mlevel[0m(level), float64 [4mtime[0m(time), float64 [4mreig1[0m(level,latitude,longitude), float64 [4mieig1[0m(level,latitude,longitude), int32 [4mBASEDATE[0m(dimx_BASEDATE)
+    groups: 
+
+Dataset is closed!
+20170726_00
+
+// global attributes:
+		:domxmin = 3.091526e+10f ;
+		:domxmax = 2.252808e-38f ;
+		:domymin = 4.591214e-41f ;
+		:domymax = 0.f ;
+		:domzmin = 1.401298e-45f ;
+		:domzmax = 5.835586e-18f ;
+		:constants_file_name = "lsl_20170726_00.4_cst" ;
+}
+<xarray.DataArray 'BASEDATE' (dimz_lon: 1, dimy_lon: 1, dimx_BASEDATE: 6)>
+array([[[2017.,    7.,   26.,    0.,    0.,  720.]]], dtype=float32)
+Coordinates:
+    time     float32 0.0
+Dimensions without coordinates: dimz_lon, dimy_lon, dimx_BASEDATE
+Attributes:
+    xmin:          0.0
+    xmax:          0.0
+    xstag:         0.0
+    ymin:          0.0
+    ymax:          0.0
+    ystag:         0.0
+    zmin:          0.0
+    zmax:          0.0
+    zstag:         0.0
+    missing_data:  -999.99
+282331
+13
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF4_CLASSIC data model, file format HDF5):
+    dimensions(sizes): 
+    variables(dimensions): 
+    groups: 
+
+('latitude', <class 'netCDF4._netCDF4.Dimension'>: name = 'latitude', size = 121
+)
+('longitude', <class 'netCDF4._netCDF4.Dimension'>: name = 'longitude', size = 221
+)
+('level', <class 'netCDF4._netCDF4.Dimension'>: name = 'level', size = 11
+)
+('time', <class 'netCDF4._netCDF4.Dimension'> (unlimited): name = 'time', size = 0
+)
+('dimx_BASEDATE', <class 'netCDF4._netCDF4.Dimension'>: name = 'dimx_BASEDATE', size = 6
+)
+OWLAG value data
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF4_CLASSIC data model, file format HDF5):
+    title: OWLAG value data
+    subtitle: My model data subtitle
+    anything: Write anything
+    dimensions(sizes): latitude(121), longitude(221), level(11), time(0), dimx_BASEDATE(6)
+    variables(dimensions): float32 [4mlatitude[0m(latitude), float32 [4mlongitude[0m(longitude), float32 [4mlevel[0m(level), float64 [4mtime[0m(time), float64 [4mreig1[0m(level,latitude,longitude), float64 [4mieig1[0m(level,latitude,longitude), int32 [4mBASEDATE[0m(dimx_BASEDATE)
+    groups: 
+
+Dataset is closed!
+20170726_06
+
+// global attributes:
+		:domxmin = -4.011964e+24f ;
+		:domxmax = 5.067692e-38f ;
+		:domymin = 4.591635e-41f ;
+		:domymax = 0.f ;
+		:domzmin = 1.401298e-45f ;
+		:domzmax = -89.26923f ;
+		:constants_file_name = "lsl_20170726_06.4_cst" ;
+}
+<xarray.DataArray 'BASEDATE' (dimz_lon: 1, dimy_lon: 1, dimx_BASEDATE: 6)>
+array([[[2017.,    7.,   26.,    6.,    0.,  720.]]], dtype=float32)
+Coordinates:
+    time     float32 0.0
+Dimensions without coordinates: dimz_lon, dimy_lon, dimx_BASEDATE
+Attributes:
+    xmin:          0.0
+    xmax:          0.0
+    xstag:         0.0
+    ymin:          0.0
+    ymax:          0.0
+    ystag:         0.0
+    zmin:          0.0
+    zmax:          0.0
+    zstag:         0.0
+    missing_data:  -999.99
+282087
+13
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF4_CLASSIC data model, file format HDF5):
+    dimensions(sizes): 
+    variables(dimensions): 
+    groups: 
+
+('latitude', <class 'netCDF4._netCDF4.Dimension'>: name = 'latitude', size = 121
+)
+('longitude', <class 'netCDF4._netCDF4.Dimension'>: name = 'longitude', size = 221
+)
+('level', <class 'netCDF4._netCDF4.Dimension'>: name = 'level', size = 11
+)
+('time', <class 'netCDF4._netCDF4.Dimension'> (unlimited): name = 'time', size = 0
+)
+('dimx_BASEDATE', <class 'netCDF4._netCDF4.Dimension'>: name = 'dimx_BASEDATE', size = 6
+)
+OWLAG value data
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF4_CLASSIC data model, file format HDF5):
+    title: OWLAG value data
+    subtitle: My model data subtitle
+    anything: Write anything
+    dimensions(sizes): latitude(121), longitude(221), level(11), time(0), dimx_BASEDATE(6)
+    variables(dimensions): float32 [4mlatitude[0m(latitude), float32 [4mlongitude[0m(longitude), float32 [4mlevel[0m(level), float64 [4mtime[0m(time), float64 [4mreig1[0m(level,latitude,longitude), float64 [4mieig1[0m(level,latitude,longitude), int32 [4mBASEDATE[0m(dimx_BASEDATE)
+    groups: 
+
+Dataset is closed!
+20170726_12
+
+// global attributes:
+		:domxmin = 5.262237e-09f ;
+		:domxmax = 6.236593e+14f ;
+		:domymin = 4.591354e-41f ;
+		:domymax = 1.557263e-41f ;
+		:domzmin = 1.401298e-45f ;
+		:domzmax = 4.607799e+14f ;
+		:constants_file_name = "lsl_20170726_12.4_cst" ;
+}
+<xarray.DataArray 'BASEDATE' (dimz_lon: 1, dimy_lon: 1, dimx_BASEDATE: 6)>
+array([[[2017.,    7.,   26.,   12.,    0.,  720.]]], dtype=float32)
+Coordinates:
+    time     float32 0.0
+Dimensions without coordinates: dimz_lon, dimy_lon, dimx_BASEDATE
+Attributes:
+    xmin:          0.0
+    xmax:          0.0
+    xstag:         0.0
+    ymin:          0.0
+    ymax:          0.0
+    ystag:         0.0
+    zmin:          0.0
+    zmax:          0.0
+    zstag:         0.0
+    missing_data:  -999.99
+282056
+13
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF4_CLASSIC data model, file format HDF5):
+    dimensions(sizes): 
+    variables(dimensions): 
+    groups: 
+
+('latitude', <class 'netCDF4._netCDF4.Dimension'>: name = 'latitude', size = 121
+)
+('longitude', <class 'netCDF4._netCDF4.Dimension'>: name = 'longitude', size = 221
+)
+('level', <class 'netCDF4._netCDF4.Dimension'>: name = 'level', size = 11
+)
+('time', <class 'netCDF4._netCDF4.Dimension'> (unlimited): name = 'time', size = 0
+)
+('dimx_BASEDATE', <class 'netCDF4._netCDF4.Dimension'>: name = 'dimx_BASEDATE', size = 6
+)
+OWLAG value data
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF4_CLASSIC data model, file format HDF5):
+    title: OWLAG value data
+    subtitle: My model data subtitle
+    anything: Write anything
+    dimensions(sizes): latitude(121), longitude(221), level(11), time(0), dimx_BASEDATE(6)
+    variables(dimensions): float32 [4mlatitude[0m(latitude), float32 [4mlongitude[0m(longitude), float32 [4mlevel[0m(level), float64 [4mtime[0m(time), float64 [4mreig1[0m(level,latitude,longitude), float64 [4mieig1[0m(level,latitude,longitude), int32 [4mBASEDATE[0m(dimx_BASEDATE)
+    groups: 
+
+Dataset is closed!
+20170726_18
+
+// global attributes:
+		:domxmin = -7.846543e+34f ;
+		:domxmax = 4.095975e-38f ;
+		:domymin = 4.591214e-41f ;
+		:domymax = 0.f ;
+		:domzmin = 1.401298e-45f ;
+		:domzmax = -2.589137e+18f ;
+		:constants_file_name = "lsl_20170726_18.4_cst" ;
+}
+<xarray.DataArray 'BASEDATE' (dimz_lon: 1, dimy_lon: 1, dimx_BASEDATE: 6)>
+array([[[2017.,    7.,   26.,   18.,    0.,  720.]]], dtype=float32)
+Coordinates:
+    time     float32 0.0
+Dimensions without coordinates: dimz_lon, dimy_lon, dimx_BASEDATE
+Attributes:
+    xmin:          0.0
+    xmax:          0.0
+    xstag:         0.0
+    ymin:          0.0
+    ymax:          0.0
+    ystag:         0.0
+    zmin:          0.0
+    zmax:          0.0
+    zstag:         0.0
+    missing_data:  -999.99
+282227
+13
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF4_CLASSIC data model, file format HDF5):
+    dimensions(sizes): 
+    variables(dimensions): 
+    groups: 
+
+('latitude', <class 'netCDF4._netCDF4.Dimension'>: name = 'latitude', size = 121
+)
+('longitude', <class 'netCDF4._netCDF4.Dimension'>: name = 'longitude', size = 221
+)
+('level', <class 'netCDF4._netCDF4.Dimension'>: name = 'level', size = 11
+)
+('time', <class 'netCDF4._netCDF4.Dimension'> (unlimited): name = 'time', size = 0
+)
+('dimx_BASEDATE', <class 'netCDF4._netCDF4.Dimension'>: name = 'dimx_BASEDATE', size = 6
+)
+OWLAG value data
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF4_CLASSIC data model, file format HDF5):
+    title: OWLAG value data
+    subtitle: My model data subtitle
+    anything: Write anything
+    dimensions(sizes): latitude(121), longitude(221), level(11), time(0), dimx_BASEDATE(6)
+    variables(dimensions): float32 [4mlatitude[0m(latitude), float32 [4mlongitude[0m(longitude), float32 [4mlevel[0m(level), float64 [4mtime[0m(time), float64 [4mreig1[0m(level,latitude,longitude), float64 [4mieig1[0m(level,latitude,longitude), int32 [4mBASEDATE[0m(dimx_BASEDATE)
+    groups: 
+
+Dataset is closed!
+20170727_00
+
+// global attributes:
+		:domxmin = -1.175912e-32f ;
+		:domxmax = 2.528003e-37f ;
+		:domymin = 4.591354e-41f ;
+		:domymax = 0.f ;
+		:domzmin = 1.401298e-45f ;
+		:domzmax = -1.024836e-28f ;
+		:constants_file_name = "lsl_20170727_00.4_cst" ;
+}
+<xarray.DataArray 'BASEDATE' (dimz_lon: 1, dimy_lon: 1, dimx_BASEDATE: 6)>
+array([[[2017.,    7.,   27.,    0.,    0.,  720.]]], dtype=float32)
+Coordinates:
+    time     float32 0.0
+Dimensions without coordinates: dimz_lon, dimy_lon, dimx_BASEDATE
+Attributes:
+    xmin:          0.0
+    xmax:          0.0
+    xstag:         0.0
+    ymin:          0.0
+    ymax:          0.0
+    ystag:         0.0
+    zmin:          0.0
+    zmax:          0.0
+    zstag:         0.0
+    missing_data:  -999.99
+282406
+13
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF4_CLASSIC data model, file format HDF5):
+    dimensions(sizes): 
+    variables(dimensions): 
+    groups: 
+
+('latitude', <class 'netCDF4._netCDF4.Dimension'>: name = 'latitude', size = 121
+)
+('longitude', <class 'netCDF4._netCDF4.Dimension'>: name = 'longitude', size = 221
+)
+('level', <class 'netCDF4._netCDF4.Dimension'>: name = 'level', size = 11
+)
+('time', <class 'netCDF4._netCDF4.Dimension'> (unlimited): name = 'time', size = 0
+)
+('dimx_BASEDATE', <class 'netCDF4._netCDF4.Dimension'>: name = 'dimx_BASEDATE', size = 6
+)
+OWLAG value data
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF4_CLASSIC data model, file format HDF5):
+    title: OWLAG value data
+    subtitle: My model data subtitle
+    anything: Write anything
+    dimensions(sizes): latitude(121), longitude(221), level(11), time(0), dimx_BASEDATE(6)
+    variables(dimensions): float32 [4mlatitude[0m(latitude), float32 [4mlongitude[0m(longitude), float32 [4mlevel[0m(level), float64 [4mtime[0m(time), float64 [4mreig1[0m(level,latitude,longitude), float64 [4mieig1[0m(level,latitude,longitude), int32 [4mBASEDATE[0m(dimx_BASEDATE)
+    groups: 
+
+Dataset is closed!
+20170727_06
+
+// global attributes:
+		:domxmin = -1.097476e-20f ;
+		:domxmax = 2.005459e-37f ;
+		:domymin = 4.591354e-41f ;
+		:domymax = 0.f ;
+		:domzmin = 1.401298e-45f ;
+		:domzmax = -4.533929e-07f ;
+		:constants_file_name = "lsl_20170727_06.4_cst" ;
+}
+<xarray.DataArray 'BASEDATE' (dimz_lon: 1, dimy_lon: 1, dimx_BASEDATE: 6)>
+array([[[2017.,    7.,   27.,    6.,    0.,  720.]]], dtype=float32)
+Coordinates:
+    time     float32 0.0
+Dimensions without coordinates: dimz_lon, dimy_lon, dimx_BASEDATE
+Attributes:
+    xmin:          0.0
+    xmax:          0.0
+    xstag:         0.0
+    ymin:          0.0
+    ymax:          0.0
+    ystag:         0.0
+    zmin:          0.0
+    zmax:          0.0
+    zstag:         0.0
+    missing_data:  -999.99
+282158
+13
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF4_CLASSIC data model, file format HDF5):
+    dimensions(sizes): 
+    variables(dimensions): 
+    groups: 
+
+('latitude', <class 'netCDF4._netCDF4.Dimension'>: name = 'latitude', size = 121
+)
+('longitude', <class 'netCDF4._netCDF4.Dimension'>: name = 'longitude', size = 221
+)
+('level', <class 'netCDF4._netCDF4.Dimension'>: name = 'level', size = 11
+)
+('time', <class 'netCDF4._netCDF4.Dimension'> (unlimited): name = 'time', size = 0
+)
+('dimx_BASEDATE', <class 'netCDF4._netCDF4.Dimension'>: name = 'dimx_BASEDATE', size = 6
+)
+OWLAG value data
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF4_CLASSIC data model, file format HDF5):
+    title: OWLAG value data
+    subtitle: My model data subtitle
+    anything: Write anything
+    dimensions(sizes): latitude(121), longitude(221), level(11), time(0), dimx_BASEDATE(6)
+    variables(dimensions): float32 [4mlatitude[0m(latitude), float32 [4mlongitude[0m(longitude), float32 [4mlevel[0m(level), float64 [4mtime[0m(time), float64 [4mreig1[0m(level,latitude,longitude), float64 [4mieig1[0m(level,latitude,longitude), int32 [4mBASEDATE[0m(dimx_BASEDATE)
+    groups: 
+
+Dataset is closed!
+20170727_12
+
+// global attributes:
+		:domxmin = 2.395471e-20f ;
+		:domxmax = 3.182714e-38f ;
+		:domymin = 4.591635e-41f ;
+		:domymax = 0.f ;
+		:domzmin = 1.401298e-45f ;
+		:domzmax = -8.04675e+21f ;
+		:constants_file_name = "lsl_20170727_12.4_cst" ;
+}
+<xarray.DataArray 'BASEDATE' (dimz_lon: 1, dimy_lon: 1, dimx_BASEDATE: 6)>
+array([[[2017.,    7.,   27.,   12.,    0.,  720.]]], dtype=float32)
+Coordinates:
+    time     float32 0.0
+Dimensions without coordinates: dimz_lon, dimy_lon, dimx_BASEDATE
+Attributes:
+    xmin:          0.0
+    xmax:          0.0
+    xstag:         0.0
+    ymin:          0.0
+    ymax:          0.0
+    ystag:         0.0
+    zmin:          0.0
+    zmax:          0.0
+    zstag:         0.0
+    missing_data:  -999.99
+282127
+13
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF4_CLASSIC data model, file format HDF5):
+    dimensions(sizes): 
+    variables(dimensions): 
+    groups: 
+
+('latitude', <class 'netCDF4._netCDF4.Dimension'>: name = 'latitude', size = 121
+)
+('longitude', <class 'netCDF4._netCDF4.Dimension'>: name = 'longitude', size = 221
+)
+('level', <class 'netCDF4._netCDF4.Dimension'>: name = 'level', size = 11
+)
+('time', <class 'netCDF4._netCDF4.Dimension'> (unlimited): name = 'time', size = 0
+)
+('dimx_BASEDATE', <class 'netCDF4._netCDF4.Dimension'>: name = 'dimx_BASEDATE', size = 6
+)
+OWLAG value data
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF4_CLASSIC data model, file format HDF5):
+    title: OWLAG value data
+    subtitle: My model data subtitle
+    anything: Write anything
+    dimensions(sizes): latitude(121), longitude(221), level(11), time(0), dimx_BASEDATE(6)
+    variables(dimensions): float32 [4mlatitude[0m(latitude), float32 [4mlongitude[0m(longitude), float32 [4mlevel[0m(level), float64 [4mtime[0m(time), float64 [4mreig1[0m(level,latitude,longitude), float64 [4mieig1[0m(level,latitude,longitude), int32 [4mBASEDATE[0m(dimx_BASEDATE)
+    groups: 
+
+Dataset is closed!
+20170727_18
+
+// global attributes:
+		:domxmin = 2.544818e+22f ;
+		:domxmax = 9.581429e-38f ;
+		:domymin = 4.591495e-41f ;
+		:domymax = 0.f ;
+		:domzmin = 1.401298e-45f ;
+		:domzmax = 0.001719819f ;
+		:constants_file_name = "lsl_20170727_18.4_cst" ;
+}
+<xarray.DataArray 'BASEDATE' (dimz_lon: 1, dimy_lon: 1, dimx_BASEDATE: 6)>
+array([[[2017.,    7.,   27.,   18.,    0.,  720.]]], dtype=float32)
+Coordinates:
+    time     float32 0.0
+Dimensions without coordinates: dimz_lon, dimy_lon, dimx_BASEDATE
+Attributes:
+    xmin:          0.0
+    xmax:          0.0
+    xstag:         0.0
+    ymin:          0.0
+    ymax:          0.0
+    ystag:         0.0
+    zmin:          0.0
+    zmax:          0.0
+    zstag:         0.0
+    missing_data:  -999.99
+282336
+13
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF4_CLASSIC data model, file format HDF5):
+    dimensions(sizes): 
+    variables(dimensions): 
+    groups: 
+
+('latitude', <class 'netCDF4._netCDF4.Dimension'>: name = 'latitude', size = 121
+)
+('longitude', <class 'netCDF4._netCDF4.Dimension'>: name = 'longitude', size = 221
+)
+('level', <class 'netCDF4._netCDF4.Dimension'>: name = 'level', size = 11
+)
+('time', <class 'netCDF4._netCDF4.Dimension'> (unlimited): name = 'time', size = 0
+)
+('dimx_BASEDATE', <class 'netCDF4._netCDF4.Dimension'>: name = 'dimx_BASEDATE', size = 6
+)
+OWLAG value data
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF4_CLASSIC data model, file format HDF5):
+    title: OWLAG value data
+    subtitle: My model data subtitle
+    anything: Write anything
+    dimensions(sizes): latitude(121), longitude(221), level(11), time(0), dimx_BASEDATE(6)
+    variables(dimensions): float32 [4mlatitude[0m(latitude), float32 [4mlongitude[0m(longitude), float32 [4mlevel[0m(level), float64 [4mtime[0m(time), float64 [4mreig1[0m(level,latitude,longitude), float64 [4mieig1[0m(level,latitude,longitude), int32 [4mBASEDATE[0m(dimx_BASEDATE)
+    groups: 
+
+Dataset is closed!
+20170728_00
+
+// global attributes:
+		:domxmin = -5.309991e-29f ;
+		:domxmax = 2.6147e-38f ;
+		:domymin = 4.591354e-41f ;
+		:domymax = 0.f ;
+		:domzmin = 4.003472e+37f ;
+		:domzmax = 1.389892e-38f ;
+		:constants_file_name = "lsl_20170728_00.4_cst" ;
+}
+<xarray.DataArray 'BASEDATE' (dimz_lon: 1, dimy_lon: 1, dimx_BASEDATE: 6)>
+array([[[2017.,    7.,   28.,    0.,    0.,  720.]]], dtype=float32)
+Coordinates:
+    time     float32 0.0
+Dimensions without coordinates: dimz_lon, dimy_lon, dimx_BASEDATE
+Attributes:
+    xmin:          0.0
+    xmax:          0.0
+    xstag:         0.0
+    ymin:          0.0
+    ymax:          0.0
+    ystag:         0.0
+    zmin:          0.0
+    zmax:          0.0
+    zstag:         0.0
+    missing_data:  -999.99
+282455
+13
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF4_CLASSIC data model, file format HDF5):
+    dimensions(sizes): 
+    variables(dimensions): 
+    groups: 
+
+('latitude', <class 'netCDF4._netCDF4.Dimension'>: name = 'latitude', size = 121
+)
+('longitude', <class 'netCDF4._netCDF4.Dimension'>: name = 'longitude', size = 221
+)
+('level', <class 'netCDF4._netCDF4.Dimension'>: name = 'level', size = 11
+)
+('time', <class 'netCDF4._netCDF4.Dimension'> (unlimited): name = 'time', size = 0
+)
+('dimx_BASEDATE', <class 'netCDF4._netCDF4.Dimension'>: name = 'dimx_BASEDATE', size = 6
+)
+OWLAG value data
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF4_CLASSIC data model, file format HDF5):
+    title: OWLAG value data
+    subtitle: My model data subtitle
+    anything: Write anything
+    dimensions(sizes): latitude(121), longitude(221), level(11), time(0), dimx_BASEDATE(6)
+    variables(dimensions): float32 [4mlatitude[0m(latitude), float32 [4mlongitude[0m(longitude), float32 [4mlevel[0m(level), float64 [4mtime[0m(time), float64 [4mreig1[0m(level,latitude,longitude), float64 [4mieig1[0m(level,latitude,longitude), int32 [4mBASEDATE[0m(dimx_BASEDATE)
+    groups: 
+
+Dataset is closed!
+20170728_06
+
+// global attributes:
+		:domxmin = 2.900977e-38f ;
+		:domxmax = 3.036223e-33f ;
+		:domymin = 0.f ;
+		:domymax = 1.550817e-41f ;
+		:domzmin = 2.364683e-33f ;
+		:domzmax = 2.900977e-38f ;
+		:constants_file_name = "lsl_20170728_06.4_cst" ;
+}
+<xarray.DataArray 'BASEDATE' (dimz_lon: 1, dimy_lon: 1, dimx_BASEDATE: 6)>
+array([[[2017.,    7.,   28.,    6.,    0.,  720.]]], dtype=float32)
+Coordinates:
+    time     float32 0.0
+Dimensions without coordinates: dimz_lon, dimy_lon, dimx_BASEDATE
+Attributes:
+    xmin:          0.0
+    xmax:          0.0
+    xstag:         0.0
+    ymin:          0.0
+    ymax:          0.0
+    ystag:         0.0
+    zmin:          0.0
+    zmax:          0.0
+    zstag:         0.0
+    missing_data:  -999.99
+282004
+13
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF4_CLASSIC data model, file format HDF5):
+    dimensions(sizes): 
+    variables(dimensions): 
+    groups: 
+
+('latitude', <class 'netCDF4._netCDF4.Dimension'>: name = 'latitude', size = 121
+)
+('longitude', <class 'netCDF4._netCDF4.Dimension'>: name = 'longitude', size = 221
+)
+('level', <class 'netCDF4._netCDF4.Dimension'>: name = 'level', size = 11
+)
+('time', <class 'netCDF4._netCDF4.Dimension'> (unlimited): name = 'time', size = 0
+)
+('dimx_BASEDATE', <class 'netCDF4._netCDF4.Dimension'>: name = 'dimx_BASEDATE', size = 6
+)
+OWLAG value data
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF4_CLASSIC data model, file format HDF5):
+    title: OWLAG value data
+    subtitle: My model data subtitle
+    anything: Write anything
+    dimensions(sizes): latitude(121), longitude(221), level(11), time(0), dimx_BASEDATE(6)
+    variables(dimensions): float32 [4mlatitude[0m(latitude), float32 [4mlongitude[0m(longitude), float32 [4mlevel[0m(level), float64 [4mtime[0m(time), float64 [4mreig1[0m(level,latitude,longitude), float64 [4mieig1[0m(level,latitude,longitude), int32 [4mBASEDATE[0m(dimx_BASEDATE)
+    groups: 
+
+Dataset is closed!
+20170728_12
+
+// global attributes:
+		:domxmin = -314.7773f ;
+		:domxmax = 4.125557e-38f ;
+		:domymin = 4.591214e-41f ;
+		:domymax = 0.f ;
+		:domzmin = 1.401298e-45f ;
+		:domzmax = 1.757355e-14f ;
+		:constants_file_name = "lsl_20170728_12.4_cst" ;
+}
+<xarray.DataArray 'BASEDATE' (dimz_lon: 1, dimy_lon: 1, dimx_BASEDATE: 6)>
+array([[[2017.,    7.,   28.,   12.,    0.,  720.]]], dtype=float32)
+Coordinates:
+    time     float32 0.0
+Dimensions without coordinates: dimz_lon, dimy_lon, dimx_BASEDATE
+Attributes:
+    xmin:          0.0
+    xmax:          0.0
+    xstag:         0.0
+    ymin:          0.0
+    ymax:          0.0
+    ystag:         0.0
+    zmin:          0.0
+    zmax:          0.0
+    zstag:         0.0
+    missing_data:  -999.99
+281832
+13
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF4_CLASSIC data model, file format HDF5):
+    dimensions(sizes): 
+    variables(dimensions): 
+    groups: 
+
+('latitude', <class 'netCDF4._netCDF4.Dimension'>: name = 'latitude', size = 121
+)
+('longitude', <class 'netCDF4._netCDF4.Dimension'>: name = 'longitude', size = 221
+)
+('level', <class 'netCDF4._netCDF4.Dimension'>: name = 'level', size = 11
+)
+('time', <class 'netCDF4._netCDF4.Dimension'> (unlimited): name = 'time', size = 0
+)
+('dimx_BASEDATE', <class 'netCDF4._netCDF4.Dimension'>: name = 'dimx_BASEDATE', size = 6
+)
+OWLAG value data
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF4_CLASSIC data model, file format HDF5):
+    title: OWLAG value data
+    subtitle: My model data subtitle
+    anything: Write anything
+    dimensions(sizes): latitude(121), longitude(221), level(11), time(0), dimx_BASEDATE(6)
+    variables(dimensions): float32 [4mlatitude[0m(latitude), float32 [4mlongitude[0m(longitude), float32 [4mlevel[0m(level), float64 [4mtime[0m(time), float64 [4mreig1[0m(level,latitude,longitude), float64 [4mieig1[0m(level,latitude,longitude), int32 [4mBASEDATE[0m(dimx_BASEDATE)
+    groups: 
+
+Dataset is closed!
+20170728_18
+
+// global attributes:
+		:domxmin = -5.372389e-19f ;
+		:domxmax = 4.501744e-38f ;
+		:domymin = 4.591354e-41f ;
+		:domymax = 0.f ;
+		:domzmin = 1.401298e-45f ;
+		:domzmax = 1.613794e-14f ;
+		:constants_file_name = "lsl_20170728_18.4_cst" ;
+}
+<xarray.DataArray 'BASEDATE' (dimz_lon: 1, dimy_lon: 1, dimx_BASEDATE: 6)>
+array([[[2017.,    7.,   28.,   18.,    0.,  720.]]], dtype=float32)
+Coordinates:
+    time     float32 0.0
+Dimensions without coordinates: dimz_lon, dimy_lon, dimx_BASEDATE
+Attributes:
+    xmin:          0.0
+    xmax:          0.0
+    xstag:         0.0
+    ymin:          0.0
+    ymax:          0.0
+    ystag:         0.0
+    zmin:          0.0
+    zmax:          0.0
+    zstag:         0.0
+    missing_data:  -999.99
+281635
+13
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF4_CLASSIC data model, file format HDF5):
+    dimensions(sizes): 
+    variables(dimensions): 
+    groups: 
+
+('latitude', <class 'netCDF4._netCDF4.Dimension'>: name = 'latitude', size = 121
+)
+('longitude', <class 'netCDF4._netCDF4.Dimension'>: name = 'longitude', size = 221
+)
+('level', <class 'netCDF4._netCDF4.Dimension'>: name = 'level', size = 11
+)
+('time', <class 'netCDF4._netCDF4.Dimension'> (unlimited): name = 'time', size = 0
+)
+('dimx_BASEDATE', <class 'netCDF4._netCDF4.Dimension'>: name = 'dimx_BASEDATE', size = 6
+)
+OWLAG value data
+<class 'netCDF4._netCDF4.Dataset'>
+root group (NETCDF4_CLASSIC data model, file format HDF5):
+    title: OWLAG value data
+    subtitle: My model data subtitle
+    anything: Write anything
+    dimensions(sizes): latitude(121), longitude(221), level(11), time(0), dimx_BASEDATE(6)
+    variables(dimensions): float32 [4mlatitude[0m(latitude), float32 [4mlongitude[0m(longitude), float32 [4mlevel[0m(level), float64 [4mtime[0m(time), float64 [4mreig1[0m(level,latitude,longitude), float64 [4mieig1[0m(level,latitude,longitude), int32 [4mBASEDATE[0m(dimx_BASEDATE)
+    groups: 
+
+Dataset is closed!
